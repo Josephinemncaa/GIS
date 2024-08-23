@@ -1,0 +1,58 @@
+
+.banner {
+    background: url("https://cdn-assetd.kompas.id/9D-E_Du8a4wsbIeRlvEXRkeEkuk=/1024x683/https%3A%2F%2Fkompas.id%2Fwp-content%2Fuploads%2F2019%2F09%2F20190930SEM3-BAGIAN-ATAP-GEDUNG-SATE_1569844378.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 10%;
+    color: #ffffff;
+    width: 100%;
+    height: 100vh;
+}
+
+.kontak{
+    background: url("https://i.pinimg.com/originals/ac/cc/86/accc86483549369fdecb3b92c69e63c6.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+iframe{
+    height: 500px;
+    width: 100%;
+}
+
+h4{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 800;
+    font-size: 7vmin;
+    color: rgb(255, 255, 255);
+    margin-bottom: 50px;
+}
+
+h3{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 700;
+    font-size: 2vmin;
+    color: rgba(255, 255, 255, 0.884);
+}
+.informasi{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+    font-size: 2vmin;
+}
+h2{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 800;
+    font-size: 4vmin;
+    color: rgb(58, 72, 134);
+}
+.line {
+    width: 150px;
+    height: 4px;
+    background: #ec5252;
+    margin: 10px auto;
+    border-radius: 5px;
+}
